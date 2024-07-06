@@ -20,7 +20,7 @@ jobs:
         webhook_token: ${{ secrets.WEBHOOK_TOKEN }}
         color: "#48f442"
         username: "GitHub"
-        args: The ${{ github.event_name }} event triggred.
+        args: The ${{ github.event_name }} event triggred. by https://github.com/TAMAGO55123/Tuku-Bot
 
 
 
